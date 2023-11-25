@@ -14,8 +14,8 @@ Process Improvement:  Deep understanding of SCOR model,Lean six-sigma DMAIC meth
 Project Management: Agile Methodology, Cross-functional team leadership, Six Sigma process improvement, Change management. PMO. ERP, CRM and Supply Chain Systems implementation.
 
 ## Education
-**Master in Advanced Data Analytics – UNT in process 
-**
+
+**Master in Advanced Data Analytics – UNT in process**
 Master of Business Administration in International Corporate Finance and Management
 Thunderbird School of Global Management, Glendale, Arizona
 
