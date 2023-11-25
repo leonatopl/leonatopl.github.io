@@ -1,6 +1,7 @@
 # Data Scientist
 ## Expertise
 MBA, THUNDERBIRD, School of Global Management
+
 DATA SCIENCE / FINANCE / COSTING / SUPPLY CHAIN / IT SOLUTIONS / LEADERSHIP 
 
 Highly skilled Consulting leader, supply chain, finance, and cost management professional. Expert-level in supply chain, financial analysis and costing with proven background in business planning and processes structures saving multiple millions of dollars. Specific areas of expertise include leading complex, IT/business transformation solutions, process assessment and improvement, strategic financial analysis, statistical model building, market research, cost analyses, evaluation of risk, and Financial Planning using statistical models. 
@@ -13,9 +14,12 @@ Finance, Costing and IT Expertise: Strategy, Controlling, OTC, STP, R2R, Product
 Process Improvement:  Deep understanding of SCOR model,Lean six-sigma DMAIC methodology, costing/forecasting, process mapping, profitability analysis tools, supply chains, and operations planning.
 Project Management: Agile Methodology, Cross-functional team leadership, Six Sigma process improvement, Change management. PMO. ERP, CRM and Supply Chain Systems implementation.
 
+![Hope picture](/assets/img/picblog3.jpg)
+
 ## Education
 
 **Master in Advanced Data Analytics – UNT in process**
+
 Master of Business Administration in International Corporate Finance and Management
 Thunderbird School of Global Management, Glendale, Arizona
 
