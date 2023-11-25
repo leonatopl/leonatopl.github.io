@@ -14,6 +14,8 @@ Process Improvement:  Deep understanding of SCOR model,Lean six-sigma DMAIC meth
 Project Management: Agile Methodology, Cross-functional team leadership, Six Sigma process improvement, Change management. PMO. ERP, CRM and Supply Chain Systems implementation.
 
 ## Education
+**Master in Advanced Data Analytics – UNT in process 
+**
 Master of Business Administration in International Corporate Finance and Management
 Thunderbird School of Global Management, Glendale, Arizona
 
@@ -27,7 +29,6 @@ Bachelor of Science in Engineering
 Polytechnic University of Madrid, Madrid, Spain
 
 ## Professional Development
-Master in Advanced Data Analytics – UNT in process 
 PMI Project Management Institute, PMP. CMA Certified Management Accountant- IMA
 APICS Instructor for Supply Chain Management Certification, CSCP and Production and Inventory Management Certification, CPIM. Certified in Logistics, Transportation and Distribution. CLTD
 Statistical Modeling and analysis using Monte Carlo simulation  @RISK . RStudio
