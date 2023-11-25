@@ -79,7 +79,7 @@ President  2012-2014, Platinum Performance Achievement Award., currently member 
 •	Leading organizations and departments through periods of substantial growth and transition.
 •	Strategic planning and facilitation. Led various strategic planning processes for the local organizations. Well-versed in translating missions and goals into operating plans with clear benchmarks and annual objectives. 
 
-**INFOSYS, Plano, Texas • 2010- 2012 **
+**INFOSYS, Plano, Texas • 2010- 2012**
 Global leader in the "next generation" of IT and consulting company.
 Supply Chain Management Process Improvement Principal: Seasoned IT Supply Chain management and costing professional with extensive functional skills in product costing, financial planning, controller organizations, and Supply Chain Management.
 •	Worked on Business Development activities. Develop Costing Models to price RFP using internal Costing tools. Calculated Total Cost of ownership (TCO) to support IT leadership Decisions. 
@@ -108,6 +108,7 @@ Supply Chain Management Manager: Oversaw all strategic forecasting and supply ch
 •	Reduced inventory/carrying costs and improved sales service levels/inventory turns for clients and improved plant capacity and distribution planning processes among client’s multi-tiered network.
 •	Created balanced scorecards and defined KPIs in Cognos BI to monitor supply chain improvements. 
 •	Delivery Excellence Project and Project of the Year award recipient.
+
 **EDS – A. T. KEARNEY, Plano, Texas • 1996-2000**
 Global information technology industry provider addressing clients critical business needs with IT solutions.  
 Senior SAP Consultant: Drove FI / CO team efforts in the design and development processes for SAP technology projects. Oversaw system testing, requirements identification, design specs, and all training / support activity. Managed all cross-functional project team processes. Directed full lifecycle implementations.
