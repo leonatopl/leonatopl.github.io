@@ -4,6 +4,7 @@ MBA, THUNDERBIRD, School of Global Management
 DATA SCIENCE / FINANCE / COSTING / SUPPLY CHAIN / IT SOLUTIONS / LEADERSHIP 
 
 Highly skilled Consulting leader, supply chain, finance, and cost management professional. Expert-level in supply chain, financial analysis and costing with proven background in business planning and processes structures saving multiple millions of dollars. Specific areas of expertise include leading complex, IT/business transformation solutions, process assessment and improvement, strategic financial analysis, statistical model building, market research, cost analyses, evaluation of risk, and Financial Planning using statistical models. 
+
 •	Master in Advance Data Analytics in process
 •	Led complex financial and cost analyses. Financial planning, forecast, analysis and benchmarking, optimization of financial operations and cost control, pricing strategy, product and customer profitability analysis. Requirements gathering, solution selection and IT implementation (ERP/SAP, ORACLE/NetSuite,CRM, SCM, BI/COGNOS, DOMO, TABLEAU, ARIBA).
 •	Trusted project management leader skilled at driving cross-functional teams to meet project and client objectives. ERP (SAP) transformation projects, application integration and SDLC. Business Intelligence IBM Cognos, Domo, Tableau Power BI. Led communications with Senior Leadership. 
